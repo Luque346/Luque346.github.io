@@ -1,7 +1,0 @@
-html, body {
-    height: 100%;
-}
-
-#div1 {
-    display: flex; justify-content: center; align-items: center; background: rgba(88, 81, 81, 0.089); height: 100%
-}
